@@ -8,6 +8,8 @@
 
 
 <hr/>
+
+<h4 align="center">Je suis étudiant en informatique, actuellement en train de poursuivre une licence en génie logiciel. Je suis passionné par le codage, le design, et l'apprentissage continu de nouvelles compétences. J'aime relever de nouveaux défis, découvrir de nouvelles technologies et collaborer avec d'autres pour créer des projets impactants. Je crois en l'apprentissage continu et au pouvoir de la technologie pour apporter des changements positifs.</h4>
 <p align="center">
   <a href="https://salomondiei08.github.io/CV-Test/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:nguessanlandry216@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -18,7 +20,6 @@
 
 	
 </p>
-<h4 align="center">Je suis étudiant en informatique, actuellement en train de poursuivre une licence en génie logiciel. Je suis passionné par le codage, le design, et l'apprentissage continu de nouvelles compétences. J'aime relever de nouveaux défis, découvrir de nouvelles technologies et collaborer avec d'autres pour créer des projets impactants. Je crois en l'apprentissage continu et au pouvoir de la technologie pour apporter des changements positifs.</h4>
 <br>
 
 ## 🔥 Statistiques de séquence
