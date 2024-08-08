@@ -23,7 +23,8 @@
 <br>
 
 ## 🔥 Statistiques de séquence
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical" alt="Statistiques GitHub de Dezz1545" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dezz1545&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Statistiques GitHub de Dezz1545" /></p>
+
 
 
 ## ⚙️ Mes outils et technologies préférés 
@@ -124,26 +125,31 @@
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Statistiques du profil GitHub</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Les langues les plus utilisées ne sont qu'une mesure des langues dont mon code public est composé et ne reflètent pas l'expérience ou le niveau de compétence.
+    <a href="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical">
+      <img alt="Statistiques GitHub de Dezz1545" src="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&count_private=true&theme=radical" height="192px"/>
+    </a>
+    <br/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezz1545&layout=compact&theme=radical" alt="Langues les plus utilisées" height="192px"/>
+    <br/>
+    <b>Note:</b> Les langues les plus utilisées ne sont qu'une mesure des langues dont mon code public est composé et ne reflètent pas l'expérience ou le niveau de compétence.
   </p>
 </details>
+
 
 
 <details>
   <summary><b>⚡ Activité récente sur GitHub</b></summary>
   <br/>
-   <a href="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical"><img alt="Salomon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical">
+    <img alt="Dezz1545's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dezz1545&custom_title=Dezz1545's%20Contribution%20Graph&theme=react-dark" />
+  </a>
   <br/>
-
 </details>
+
 
 <br/>
 
