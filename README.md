@@ -1,4 +1,6 @@
-<h1 align="center">Hi , I'm Salomon DIEI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+<h1 align="center">Bonjour, je suis N'guessan Atti ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Étudiant+en+informatique;Développeur+Web+et+Mobile+Full+Stack;Designer%20graphique;Monteur%20vidéo&center=true&width=500&height=50"></a>
@@ -22,86 +24,91 @@
 
 > Outils et technologies avec lesquels j'ai travaillé et qui m'intéressent
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-   <tr>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="Pytest" />
-      <br>Pytest
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br>Adobe Photoshop
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=premiere" width="48" height="48" alt="Premiere Pro" />
-      <br>Adobe Premiere Pro
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Canva_Logo.svg/1280px-Canva_Logo.svg.png" width="48" height="48" alt="Canva" />
-      <br>Canva
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>Javascript
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <br>Django
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+        <br>Rest API
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C++
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+        <br>GitLab
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        <br>Dart
+      </td>
+      <td align="center" width="96">
+          <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="Pytest" />
+        <br>Pytest
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+        <br>Adobe Photoshop
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=premiere" width="48" height="48" alt="Premiere Pro" />
+        <br>Adobe Premiere Pro
+      </td>
+      <td align="center" width="96">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Canva_Logo.svg/1280px-Canva_Logo.svg.png" width="48" height="48" alt="Canva" />
+        <br>Canva
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
