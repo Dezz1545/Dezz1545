@@ -107,7 +107,7 @@
         <br>Adobe Premiere Pro
       </td>
       <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Canva_Logo.svg/1280px-Canva_Logo.svg.png" width="48" height="48" alt="Canva" />
+          <img src="https://github.com/Dezz1545/Dezz1545/blob/main/Design%20sans%20titre.png" width="48" height="48" alt="Canva" />
         <br>Canva
       </td>
     </tr>
