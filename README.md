@@ -144,11 +144,12 @@
 <details>
   <summary><b>⚡ Activité récente sur GitHub</b></summary>
   <br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical">
-    <img alt="Dezz1545's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dezz1545&custom_title=Dezz1545's%20Contribution%20Graph&theme=react-dark" />
+  <a href="https://github.com/Dezz1545">
+    <img alt="Dezz1545's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dezz1545&bg_color=1a1b27&color=ffffff&line=ff4d4d&point=ff4d4d&area=true&hide_border=true" />
   </a>
   <br/>
 </details>
+
 
 
 <br/>
