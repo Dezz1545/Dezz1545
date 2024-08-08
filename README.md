@@ -12,7 +12,7 @@
 <br>
 
 ## 🔥 Statistiques de séquence
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical" alt="candida18"  /></p>
 
 
 ## ⚙️ Mes outils et technologies préférés 
@@ -109,27 +109,27 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Statistiques Github (Dérouler pour afficher)
 
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical" alt="candida18" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Les langues les plus utilisées ne sont qu'une mesure des langues dont mon code public est composé et ne reflètent pas l'expérience ou le niveau de compétence.
   </p>
 </details>
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Activité récente sur GitHub</b></summary>
   <br/>
-   <a href="https://github.com/salomondiei08"><img alt="Salomon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical"><img alt="Salomon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
