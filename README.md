@@ -8,11 +8,21 @@
 
 
 <hr/>
+<p align="center">
+  <a href="https://salomondiei08.github.io/CV-Test/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:nguessanlandry216@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Dezz1545"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/atti-donald-n-guessan-510307294/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100077201075767"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/t_i_t_o_45/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+
+	
+</p>
 <h4 align="center">Je suis étudiant en informatique, actuellement en train de poursuivre une licence en génie logiciel. Je suis passionné par le codage, le design, et l'apprentissage continu de nouvelles compétences. J'aime relever de nouveaux défis, découvrir de nouvelles technologies et collaborer avec d'autres pour créer des projets impactants. Je crois en l'apprentissage continu et au pouvoir de la technologie pour apporter des changements positifs.</h4>
 <br>
 
 ## 🔥 Statistiques de séquence
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dezz1545&show_icons=true&theme=radical" alt="Statistiques GitHub de Dezz1545" /></p>
 
 
 ## ⚙️ Mes outils et technologies préférés 
@@ -136,17 +146,6 @@
 
 <br/>
 
-## 🙋♀ Connectons-nous
-<p align="center">
-  <a href="https://salomondiei08.github.io/CV-Test/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:nguessanlandry216@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Dezz1545"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/atti-donald-n-guessan-510307294/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100077201075767"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/t_i_t_o_45/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-
-	
-</p>
 
 <hr/>
 
